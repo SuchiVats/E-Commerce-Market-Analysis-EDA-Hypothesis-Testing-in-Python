@@ -57,15 +57,6 @@ Based on the results, we validate or reject these hypotheses using statistical t
 
 ---
 
-## 📂 Repository Contents
-Here's a quick overview of the repository structure:
-
-### 🔗 Notebooks:
-- **Shopping Dataset Analysis**: [View Jupyter Notebook](./notebooks/EDA_Shopping.ipynb)
-- **Campaign Dataset Analysis**: [View Jupyter Notebook](./notebooks/EDA_Campaign.ipynb)
-
----
-
 ## 💡 Key Insights & Findings
 - **User Engagement**: We found that users who visited all three page categories had a higher conversion rate.
 - **Income & Spending**: Higher-income individuals tend to spend more across all product categories.
